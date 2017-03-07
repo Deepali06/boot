@@ -1,0 +1,85 @@
+
+/* --------------------------------------
+   Layout
+   -------------------------------------- */
+
+/*#features {
+	text-align: center;
+}
+
+#features img {
+	margin: 0 0 20px;
+}
+
+#inputMessage {
+	margin-bottom: 15px;
+}
+
+footer {
+	background: #333;
+	color: #eee;
+	font-size: 11px;
+	padding: 20px;
+}
+
+
+/* --------------------------------------
+   Typography
+   -------------------------------------- */
+
+/*body {
+	-webkit-font-smoothing: antialiased;
+	text-rendering: optimizelegibility;
+}
+
+.well .page-header {
+	margin-top: 0;
+}
+
+.well .page-header h1 {
+	margin-top: 0;
+}
+
+ul.unstyled {
+	list-style: none;
+	padding: 0;
+} */
+
+
+/* --------------------------------------
+   Navbar
+   -------------------------------------- */
+
+#searchInput {
+	width: 200px;
+}
+
+.navbar-brand img{
+
+	padding-bottom: 30px;
+}
+#mycarousel{
+	margin-top: 120px;
+}
+#mycarousel .item{
+	height: 400px; 
+	
+}
+
+#slide1{
+  background: url(solarpanel.jpg) top center no-repeat;
+  
+  
+
+}
+#slide2{
+	background: url(bulb.png) top center no-repeat;
+	
+}
+#slide3{
+	background: url(image3.jpg) top center no-repeat;
+	
+}
+#nav{
+	background-color: skyblue;
+}
