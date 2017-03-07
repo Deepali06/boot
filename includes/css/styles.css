@@ -27,11 +27,12 @@ footer {
    Typography
    -------------------------------------- */
 
-/*body {
+body {
 	-webkit-font-smoothing: antialiased;
 	text-rendering: optimizelegibility;
+	font-family: "Lato";
 }
-
+/*
 .well .page-header {
 	margin-top: 0;
 }
@@ -57,13 +58,44 @@ ul.unstyled {
 .navbar-brand img{
 
 	padding-bottom: 30px;
+
+}
+#navbar{
+padding:7.5 7.5;
 }
 #mycarousel{
-	margin-top: 120px;
+	margin-top: 80px;
 }
 #mycarousel .item{
 	height: 400px; 
 	
+}
+#options{
+
+}
+#list{
+	padding-top: 10px;
+	float: right;
+}
+#list2{
+	padding-top: 50px;
+	float: right;
+}
+
+#list li{
+	list-style: none;
+	display: inline;
+	padding-left: 6px;
+
+
+
+}
+#list2 li{
+	list-style: none;
+display: inline;
+padding-left: 6px;
+
+
 }
 
 #slide1{
@@ -82,4 +114,5 @@ ul.unstyled {
 }
 #nav{
 	background-color: skyblue;
+	height: 54px;
 }
